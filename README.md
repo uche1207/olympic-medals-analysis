@@ -9,9 +9,9 @@ This project analyses the medal results from the **Rio 2016 Olympic Games** usin
 - **outputs/** – Folder containing screenshots of all figure outputs  
 
 ## Analysis Highlights  
-- Total medal counts by country  
-- Top 10 medal-winning countries  
-- Stacked bar chart showing Gold, Silver and Bronze medals for each country  
+- Total medal counts by country (`total_medals.png`)
+- Top 10 medal-winning countries (`top10_medals.png`) 
+- Stacked bar chart showing Gold, Silver and Bronze medals for each country (`stacked_medals.png`)
 
 ## Key Insights  
 - The **United States** won the highest total number of medals  
